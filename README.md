@@ -1,8 +1,8 @@
 # SCGB-SURF: Initial Conversations
 
-We will characterize electrophysiological recordings from mice in the experiment depicted in the figure below probing the integration of visual and vestibular information across the brain ([Keshavarzi et al., 2021](https://www.biorxiv.org/content/10.1101/2021.01.22.427789v4.abstract)). Click on the figure to view a movie of the experimental setup.
+We will characterize electrophysiological recordings from mice in the experiment depicted in the figure below probing the integration of visual and vestibular information across the brain ([Keshavarzi et al., 2021](https://www.biorxiv.org/content/10.1101/2021.01.22.427789v4.abstract)).
 
-[![visVesIntegration](figures/visVesIntegration.png)](http://www.gatsby.ucl.ac.uk/~rapela/sepi/videos/sepi.mov)
+![visVesIntegration](figures/visVesIntegration.png)
 
 In the **Vestibular** condition (left figure) mice were rotated in the dark and only received vestibular stimulation. In the **Visual** condition (right panel) mice remained fixed but the walls painted with a graiting rotated, providing only visual stimulation. In the **Visual+Vestibular** condition (center panel) mice were rotated in the light, providing both visual and vestibular stimulation.
 
