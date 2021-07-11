@@ -18,9 +18,9 @@ The following [csv file](data/All_three_exp_conditions_4.csv) contains informati
 
 We want to find on what conditions and brain regions there is a significant linear relation between the absolute value of the stimuli speed and the spike rate of time bins.
 
-For example, the following figure plots the firing rate in time bins of all neurons in V1, in the Visual+Vestibular, condition as a function of the absolute value of the speed. It also shows the linear regression line and its p-value, indicating that there is a significant linear relation between spikes rate and absolute value of speed.
+For example, the following figure plots the firing rate in time bins of all neurons in V1, in the Visual+Vestibular, condition as a function of the absolute value of the speed. It also shows the linear regression line and its p-value, indicating that there is a significant linear relation between spike rate and absolute value of speed.
 
-[![visVesV1](figures/spikeRateVsabsSpeedV1VisVes.png)]
+![visVesV1](figures/spikeRateVsabsSpeedV1VisVes.png)
 
-First try to reproduce the plot above and then compute similar plots for all conditions and brain regions.
+First try to reproduce the figure above and then plot similar figures for all conditions and brain regions.
 
