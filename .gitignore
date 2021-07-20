@@ -1,3 +1,10 @@
+doc/*
+!doc/report-jr.pdf
+
+figures/*
+
+results/*
+
 *.swp
 
 # vim backups
