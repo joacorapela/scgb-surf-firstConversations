@@ -24,4 +24,5 @@ For example, the following figure plots the firing rate in time bins of all neur
 
 First try to reproduce the figure above and then plot similar figures for all conditions and brain regions.
 
+The solution to this exercise can be found [here](doc/report-jr.pdf).
 
